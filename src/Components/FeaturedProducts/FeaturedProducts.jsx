@@ -7,28 +7,28 @@ const FeaturedProducts = ({type}) => {
 const data = [
     {
     id: 12345,
-    Image: "https://ae01.alicdn.com/kf/H39e6d1daefde46ce8edbe7260241c409n/2021-New-Mens-Fashion-Black-Blue-Jeans-Men-Casual-Slim-Stretch-Jeans-Classic-Denim-Pants-Trousers.jpg",
+    Image: "https://i.ebayimg.com/images/g/HncAAOSw5OVjWSzv/s-l1200.webp",
     title:" Men's Classic Blue Jeans",
     oldprice: 50,
     price: 39,
     },
     {
     id: 12345,
-    Image: "https://ae01.alicdn.com/kf/H39e6d1daefde46ce8edbe7260241c409n/2021-New-Mens-Fashion-Black-Blue-Jeans-Men-Casual-Slim-Stretch-Jeans-Classic-Denim-Pants-Trousers.jpg",
+    Image: "https://i.ebayimg.com/images/g/HncAAOSw5OVjWSzv/s-l1200.webp",
     title:" Men's Classic Blue Jeans",
     oldprice: 50,
     price: 39,
     },
     {
     id: 12345,
-    Image: "https://ae01.alicdn.com/kf/H39e6d1daefde46ce8edbe7260241c409n/2021-New-Mens-Fashion-Black-Blue-Jeans-Men-Casual-Slim-Stretch-Jeans-Classic-Denim-Pants-Trousers.jpg",
+    Image: "https://i.ebayimg.com/images/g/HncAAOSw5OVjWSzv/s-l1200.webp",
     title:" Men's Classic Blue Jeans",
     oldprice: 50,
     price: 39,
     },
     {
     id: 12345,
-    Image: "https://ae01.alicdn.com/kf/H39e6d1daefde46ce8edbe7260241c409n/2021-New-Mens-Fashion-Black-Blue-Jeans-Men-Casual-Slim-Stretch-Jeans-Classic-Denim-Pants-Trousers.jpg",
+    Image: "https://i.ebayimg.com/images/g/HncAAOSw5OVjWSzv/s-l1200.webp",
     title:" Men's Classic Blue Jeans",
     oldprice: 50,
     price: 39,
