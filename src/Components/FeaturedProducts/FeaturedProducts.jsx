@@ -47,7 +47,7 @@ const data = [
         exercitationem? A sunt corrupti quod quae in facere 
         hic ullam maxime iste laboriosam animi repellendus 
         porro, repellat praesentium. Amet voluptatum 
-        ratione ipsam rem sint?</p>
+        ratione ipsam rem sint.</p>
       </div>
       <div className="bottom">
         {data.map(item=>(
