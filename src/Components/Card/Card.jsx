@@ -7,16 +7,17 @@ const Card = ({item}) => {
     < Link className='link' to={`/product/${item.id}`}>
     <div className='card'>
       <div className="image">
+      {item.isNow && <span>New Season</span>}
         <img src={item.img} alt="" className="mainImg" />
         <img src={item.img2} alt="" className="secondImg" />
       </div>
-      <h2>{}item.title</h2>
+      <h2>{item.title}</h2>
       <div className="prices">
-        <h2>${item.oldprice}</h2>
-        <h2>${item.price}</h2>
+        <h3>${item.oldprice}</h3>
+        <h3>${item.price}</h3>
       </div>
     </div>
-    /</Link>
+    </Link>
   )
 }
 
